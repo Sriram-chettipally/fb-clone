@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>RESUME</title>
+    
+    </head>
+    <body>
+      <h1>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspSRIRAM CHETTIPALLY</h1>
+      <p>EMAIL:sriramchettipally@gmail.com,PHONE:9059493137,LOCATION:miyapur</p>
+      <h3>SUMMARY</h3>
+      <hr>
+      <p>I am an enthusiastic and detail-oriented fresher with a good understanding of software engineering basics and programming 
+      fundamentals. I work well in a team and am eager to learn new technologies. I’m passionate about building applications that improve 
+      accessibility and create better user experiences</p>
+      <h3>CERTIFICATIONS:</h3>
+      <hr>
+      <h5>Tata - GenAI Powered Data Analytics Job Simulation</h5>
+      <h3>PROJECTS:</h3>
+      <hr>
+      <h4>Smart RFID-Based Passenger Management System for Trains</h4>
+      <p>RFID-Based Passenger Management System for Trains: Developed a system using RFID cards and scanners for real-time passenger 
+      verification, reducing manual ticket checks, queues, and operational costs. Enabled secure, automated access control, digital wallet 
+      integration, and passenger tracking for improved station efficiency and safety.</p>
+      <p>tech stack: Arduino UNO, RFID RC522 Reader, RFID Card And Tag, Servo Motor LCD Display And I2C Module, Arduino IDE</p>
+      <h4>RF Energy Harvesting System for Low Power Device Operation</h4>
+      <p>Designed and implemented a system to capture ambient RF signals Wi-Fi, mobile towers) and convert them into usable DC power 
+      using a microstrip patch antenna, LC matching network, and two-stage Dickson voltage rectifier. Achieved up to 5.2 V output and 
+      50% power conversion efficiency at 2.45 GHz, enabling battery-free operation of low-power devices like IoT sensors and wearable 
+      electronics.</p>
+      <p>tech stack:  Microstrip patch antenna, Matching Circuit, Rectifier Circuit, Energy Storage, Power management, Load</p>
+      <h3>SKILLS:</h3>
+      <hr>
+      <h4>Java:</h4>
+      <p>Good knowledge of OOPs concept like Abstraction, Encapsulation, Polymorphism, Inheritance strings and File handling IO,Exception handling</p>
+      <h5>HTML,CSS</h5>
+      <h3>EDUCATION</h3>
+      <hr>
+      <h5>Bachelor's Degree | ECE</h5>
+      <h6>NALLA MALLA REDDY ENGINEERING COLLEGE</h6>
+      <p>&#128197;12/02/2022-26/05/2026</p>
+      <hr style="border: none; border-top: 1px dotted black;">
